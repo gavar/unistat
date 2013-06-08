@@ -19,4 +19,4 @@ Features
 * Library of stuff I need often, ie. ColorHSV, Perlin & Simplex Noise Generators, Random name generators etc.
 * Tested on PC, Mac, Linux and iOS. Cannot promise Android until I test it ;)
 
-
+Check out our [Getting Started](wiki/Getting Started) tutorial for a quick how-to.
